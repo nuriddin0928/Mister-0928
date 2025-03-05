@@ -1,0 +1,7 @@
+body {
+    background-image: url('nomsiz.jpg'); /* Telefon ichidagi rasm */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
